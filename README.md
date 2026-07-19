@@ -261,6 +261,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - 🌎 [PullRequest](www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - 🌎 [Extends Class](extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- 🌎 [Excel to Markdown](https://exceltomd.com/excel-to-markdown) : Convert XLSX, XLS, and CSV files into Markdown tables locally in the browser without signup or server upload.
 - 🌎 [Sourcegraph](sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - 🌎 [SVG Path Editor](yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - 🌎 [EmailDrop](www.emaildrop.io/): Emaildrop is a free disposable email provider.

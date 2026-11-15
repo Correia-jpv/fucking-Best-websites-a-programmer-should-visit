@@ -273,6 +273,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - 🌎 [Typeracer](play.typeracer.com/): Increase your typing speed while racing against others.
 - 🌎 [Typerush](www.typerush.com/): Increase typing speed while racing.
 - 🌎 [IT-Tools](it-tools.tech/): Collection of handy online tools for developers.
+- 🌎 [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote MCP server for searching live-music venues, booking contacts, and stage accessibility across all 50 US states.
 
 
 <div align="right">
